@@ -8,7 +8,7 @@
 *.trs
 .deps
 .libs
-.DS_Store
+*.DS_Store
 
 # Editors
 /*.sublime-*
